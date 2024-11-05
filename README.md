@@ -7,19 +7,13 @@
 
 # Autorid: Karl-Christofer Veske ja Karita-Liis Grassmanni
 
-# Lisakommentaar (nt käivitusjuhend):
+# Kirjeldus ja käivitus:
 Lahendus koosneb mitmest eraldi Pythoni scriptist, mis kas koguvad või analüüsivad teksti ja väljutavad .csv-sid. Andmeanalüüs toimub Jupyteri notebookis. 
+
 <b> Vajalikud lisad</b>
 Jupyter Notebook
 
-<i> Moodulid</i>: 
-BeautifulSoup
-pandas
-seaborn
-matplotlib
-nltk
-Wordcloud
-Counter
-re
-os
+Moodulid: BeautifulSoup, pandas, seaborn, matplotlib, nltk, Wordcloud, Counter, re, os
+
+Töö valmistamisel on kasutaud Claude(3.5 Sonnet) ja ChatGPT(GPT-4o mini) juturoboteid. 
 ##################################################
