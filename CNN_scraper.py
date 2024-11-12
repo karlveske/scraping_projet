@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# If you are using a proxy (Optional)
 PROXY = os.getenv("PROXY")
 proxies = {
     "http": PROXY,

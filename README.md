@@ -18,5 +18,5 @@ Jupyter Notebook
 
 Moodulid: BeautifulSoup, pandas, seaborn, matplotlib, nltk, Wordcloud, Counter, re, os
 
-Töö valmistamisel on kasutaud Claude(3.5 Sonnet) ja ChatGPT(GPT-4o mini) juturoboteid. 
+Töö valmistamisel on kasutaud ka Claude(3.5 Sonnet) ja ChatGPT(GPT-4o mini) juturoboteid. 
 ##################################################
