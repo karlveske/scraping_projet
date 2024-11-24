@@ -10,25 +10,27 @@
 # Autorid: Karl-Christofer Veske ja Karita-Liis Grassmanni
 
 # Kirjeldus ja käivitus:
-Lahendus koosneb mitmest eraldi Pythoni scriptist, mis kas koguvad või analüüsivad teksti ja väljutavad .csv-sid. Andmeanalüüs ja visualiseerimine toimub Jupyteri notebookis. 
+Lahendus koosneb mitmest eraldi Pythoni scriptist, mis kas koguvad või analüüsivad teksti ja väljutavad .csv-sid. Pealkirjad kogutakse vasakpoolselt uudisteliidrilt CNNst ja parempoolselt, CNNile vastanduvast Fox Newsist. Andmed on kogutud 27.10.2024
+
+Andmeanalüüs ja visualiseerimine toimub Jupyteri notebookis. 
 
 <br>
-
-
 
 Pythoni skriptid ja nende kirjeldused:
+
 <br>
-<b>CNN_Scraper: </b> vastav koodijupp <i> scrapeib </i> CNNi veebilehte ning väljutab .csv, kus on üks tulp: headlines. Seal on kõigi saidi pealkirjad. 
 
-<b> foxnews_scraper </b> vastav koodijupp <i> scrapeib </i> Fox Newsi veebilehte ning väljutab .csv, kus on üks tulp: headline. Seal on kõigi saidi pealkirjad.  
+<b>CNN_Scraper - : </b> vastav koodijupp <i> scrapeib </i> CNNi veebilehte ning väljutab .csv, kus on üks tulp: headlines. Seal on saidi pealkirjad. 
 
-<b>CNN_Sentiment ja fox_news_sentiment</b> vastav koodijupp analüüsib .csv-st imporditavaid pealkirju ning kasutades nltk moodulit, teeb tekstile sentiment analüüsi. (Paneb -1:1 skaalale, kui positiivne/negatiivne tekst on)
+<b> foxnews_scraper - </b> vastav koodijupp <i> scrapeib </i> Fox Newsi veebilehte ning väljutab .csv, kus on üks tulp: headline. Seal on kõigi saidi pealkirjad.  
 
-<b> clickbait_analyzer</b>
+<b>CNN_Sentiment & fox_news_sentiment - </b> vastav koodijupp analüüsib .csv-st imporditavaid pealkirju ning kasutades nltk moodulit, teeb tekstile sentiment analüüsi. (Paneb -1:1 skaalale, kui positiivne/negatiivne tekst on)
 
-<b> create_wordcloud </b>
+<b> clickbait_analyzer - </b>
 
-<b> grade_analyzer </b>
+<b> create_wordcloud - </b>
+
+<b> grade_analyzer - </b>
 
 <b> Vajalikud lisad</b>
 <br>
