@@ -36,7 +36,7 @@ Pythoni skriptid ja nende kirjeldused:
 <br>
 Jupyter Notebook
 
-Moodulid: BeautifulSoup, pandas, seaborn, matplotlib, nltk, Wordcloud, Counter, textstat re, os
+Moodulid: BeautifulSoup, pandas, seaborn, matplotlib, nltk, Wordcloud, Counter, textstat re, os, TextBlob
 
 Töö valmistamisel on kasutaud ka Claude(3.5 Sonnet) ja ChatGPT(GPT-4o mini) juturoboteid. 
 ##################################################
