@@ -3,8 +3,6 @@
 # 2024/2025 sügissemester
 # Projekt
 
-<br>
-
 # Teema: USA kahe poliitiliselt vastanduva meediaväljaande pealkirjade analüüs enne USA presidendi valimisi. 
 
 ### Autorid: Karl-Christofer Veske ja Karita-Liis Grassmanni
