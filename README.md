@@ -10,9 +10,10 @@
 # Autorid: Karl-Christofer Veske ja Karita-Liis Grassmanni
 
 # Kirjeldus ja käivitus:
-Lahendus koosneb mitmest eraldi Pythoni scriptist, mis kas koguvad või analüüsivad teksti ja väljutavad .csv-sid. Pealkirjad kogutakse vasakpoolselt populaarseimalt väljaandest CNN ja parempoolsest, CNNile vastanduvast Fox Newsist. Andmed on kogutud 27.10.2024. 
+Lahendus koosneb mitmest eraldi Pythoni scriptist, mis kas koguvad või analüüsivad teksti ja väljutavad .csv-sid. Ja Jupyteri notebookist, kus toimub analüüs ning andmete visualiseerimine. 
 
-Andmeanalüüs ja visualiseerimine toimub Jupyteri notebookis. 
+Pealkirjad kogutakse vasakpoolselt populaarseimalt väljaandest CNN ja parempoolsest, CNNile vastanduvast Fox Newsist. Andmed on kogutud 27.10.2024. 
+
 
 <br>
 
