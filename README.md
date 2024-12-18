@@ -17,7 +17,7 @@ Pealkirjad kogutakse vasakpoolselt populaarseimalt väljaandest CNN ja parempool
 
 <br>
 
-Pythoni skriptid ja nende kirjeldused:
+### Pythoni skriptid ja nende kirjeldused:
 
 <br>
 
